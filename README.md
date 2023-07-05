@@ -1,1 +1,2 @@
 # Instacart-Analysis
+### This is a project where I've applied 4 Machine Learning models: Logistic Regression, Random Forest Classifier, XGBoost Classifier, and LightGBM Classifier models on a dataset containing customer orders over time to predict which previously purchased products will be in a user’s next order for better inventory management or to finally predict whether a product will be re-ordered or not.
